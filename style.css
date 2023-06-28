@@ -1,10 +1,14 @@
 a{
-    color:aliceblue;
+    color:red;
     text-decoration: none;
 }
 a:hover{
-    background-color: cadetblue;
+    background-color:white ;
 }
 .container{
     text-align: center;
 }
+body{
+    background-color: black !important;
+}
+
