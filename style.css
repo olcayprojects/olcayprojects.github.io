@@ -1,35 +1,35 @@
-a{
-    color:red;
-    text-decoration: none;
+a {
+  color: red;
+  text-decoration: none;
 }
-a:hover{
-    background-color:white ;
+a:hover {
+  background-color: white;
 }
-.container{
-    text-align: center;
+.container {
+  text-align: center;
 }
-body{
-    background-color: black !important;
+body {
+  background-color: black !important;
 }
 
-a:link, a:visited {
-    background-color:black;
-    color: red;
-    border: 4px dotted red;
-    padding: 10px 20px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    width: 100%;
-    font-size: larger;
-    font-weight: bolder;
-    align-items: center;
-    
-  }
-  
-  a:hover, a:active {
-    background-color: rgba(0, 0, 0, 0.3);
-    color: white !important;
-    border: 4px ridge red;
+a:link,
+a:visited {
+  background-color: black;
+  color: red;
+  border: 4px dotted red;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  width: 100%;
+  font-size: larger;
+  font-weight: bolder;
+  align-items: center;
+}
 
-  }
+a:hover,
+a:active {
+  background-color: rgba(0, 0, 0, 0.3);
+  color: white !important;
+  border: 4px ridge red;
+}
