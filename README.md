@@ -13,12 +13,14 @@ I'm interested in **React**, **Python**, **C#**, **HTML**, **CSS**, **Bootstrap*
 
 Ayrıca aşağıdaki teknolojilerle de ilgileniyorum:
 
-- TypeScript
+- React
+- C#
 - Node.js & Express
 - SQL / MSSQL
+- TailwindCSS
 - Entity Framework
 - Material UI
-- Docker
+- Bootstrap
 - RESTful API 
 
 ---
