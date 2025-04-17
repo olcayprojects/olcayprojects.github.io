@@ -9,7 +9,6 @@ Burada kendim hakkında bilgiler, ilgi alanlarım ve yaptığım projelere bağl
 
 Yazılım dünyasına büyük bir ilgi duyuyorum ve sürekli kendimi geliştirmek için yeni teknolojiler öğreniyorum.  
 Frontend ve backend alanlarında çalışıyorum.  
-I'm interested in **React**, **Python**, **C#**, **HTML**, **CSS**, **Bootstrap**, **TailwindCSS** ve **MSSQL**.
 
 Ayrıca aşağıdaki teknolojilerle de ilgileniyorum:
 
